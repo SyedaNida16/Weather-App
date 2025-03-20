@@ -3,7 +3,7 @@ import requests
 
 # OpenWeatherMap API details
 API_KEY = "e9505488abb2cfd5e75546f8dc8d8b31"
-BASE_URL = "https://api.openweathermap.org/data/2.5/weather "
+BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
 
 def get_weather(city):
     """
